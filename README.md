@@ -17,15 +17,6 @@ I am full stack developer for building both frontend and backend of the website.
 ## 🛠 Skills
 Javascript, HTML, CSS, MUI, Typescript, node.js, react.js, express.js 
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Run Locally
 
