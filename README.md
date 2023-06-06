@@ -62,4 +62,10 @@ Start the server
 
 
 ## Screenshots
+![Screenshot 2023-06-06 100206](https://github.com/ruturajmengal2016/Gym-website/assets/114099113/eca3f520-9172-44f5-a8db-0ee847fed974)
+
+![Screenshot 2023-06-06 100326](https://github.com/ruturajmengal2016/Gym-website/assets/114099113/965bb1e4-17b5-43c7-907f-9ccbbf0779ed)
+
+![Screenshot 2023-06-06 100259](https://github.com/ruturajmengal2016/Gym-website/assets/114099113/199c4d42-af0b-43e2-99e3-b060eafcad57)
+
 
