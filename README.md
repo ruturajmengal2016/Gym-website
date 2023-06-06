@@ -68,4 +68,7 @@ Start the server
 
 ![Screenshot 2023-06-06 100259](https://github.com/ruturajmengal2016/Gym-website/assets/114099113/199c4d42-af0b-43e2-99e3-b060eafcad57)
 
+## Collaborators
 
+- Ruturaj Mengal, https://github.com/ruturajmengal2016
+- Janamjay kumar, https://github.com/Janamjay
