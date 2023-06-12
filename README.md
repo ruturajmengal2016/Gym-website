@@ -17,7 +17,10 @@ I am full stack developer for building both frontend and backend of the website.
 ## 🛠 Skills
 Javascript, HTML, CSS, MUI, Typescript, node.js, react.js, express.js 
 
-    
+## Deployment link
+
+https://website-gym-ruturaj.netlify.app
+
 ## Run Locally
 
 Clone the project
